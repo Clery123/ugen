@@ -1,0 +1,5 @@
+1234:jmhurban:Jozef:Miloslav:Hurban:Legal
+4567:mrstefanik:Milan:Rastislav:Stefanik:Defence
+4563:jmurgas:Jozef::Murgas:Development
+1111:phufnagel:Pista::Hufnagel:Sales
+4563:phufnagel:Pista::Hufnagel:Sales
